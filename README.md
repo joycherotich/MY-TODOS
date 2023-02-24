@@ -51,21 +51,21 @@ Filter TODO items by date.
 Delete a TODO item.
 
  ## TODO PROPERTIES
-id => Integer - Unique identifier.
+*id => Integer - Unique identifier.*
 
-title => String - The name of the task.
+*title => String - The name of the task.*
 
-description => String - A short description about the task.
+*description => String - A short description about the task.*
 
-due => Date - The due date set.
+*due => Date - The due date set.*
 
-createdAt => Date - The date the task was created.
+*createdAt => Date - The date the task was created.*
 
-status => ENUM [CREATED, ONGOING, COMPLETED, CANCELLED] - The status of the task.
+*status => ENUM [CREATED, ONGOING, COMPLETED, CANCELLED] - The status of the task.*
 
 The following routes are ready for use:
 
-/hello - Presents a simple welcome message.
+*1./hello - Presents a simple welcome message.*
 
 # LICENSE
 This repository is distributed under the MIT License

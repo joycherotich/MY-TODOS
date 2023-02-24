@@ -6,6 +6,7 @@ class CreateTodos < ActiveRecord::Migration[7.0]
       t.string :description, null: false
       t.datetime :due_date
       t.datetime :createdAt, null: false
+      t.integer :status, null: false, default: 0
     end
 
   end
