@@ -24,7 +24,7 @@ You can setup this repository by following this manual
 
 Clone the repository
 
-git clone https://github.com/otsembo/my-todos-sinatra.git
+git clone https://github.com/joycherotich/my-todos-sinatra.git
 
 Ensure the ruby gems are setup in your machine
 
@@ -83,4 +83,4 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 # Author
 This repository is maintained by:
-Joy kirui
+joycherotich
